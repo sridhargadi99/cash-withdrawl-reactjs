@@ -1,0 +1,70 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.sub-container {
+  background-color: #150b3e;
+  border-radius: 10px;
+  border-width: 0px;
+  padding: 30px;
+  width: 50%;
+}
+.logo-heading-container {
+  display: flex;
+  margin: 10px;
+}
+.logo-style {
+  background-color: #c7d2fe;
+  border-radius: 33px;
+  border-width: 0px;
+  height: 70px;
+  width: 70px;
+  color: #7c3aed;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.heading-style1 {
+  color: #d4d2db;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 400;
+  padding-left: 20px;
+}
+.balance-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  margin-bottom: 10px;
+}
+.paragraph-style1 {
+  color: #585076;
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.paragraph-style3 {
+  color: #d4d2db;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.paragraph-style2 {
+  color: #585076;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+}
+.button-container {
+  display: flex;
+  flex-wrap: wrap;
+}
